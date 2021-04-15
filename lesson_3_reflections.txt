@@ -1,7 +1,8 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    Fill in your answer here
+    The main thing is to backup your commits if somehow your computer is not working or all files are delete. It is easier to get the code from git hub. One advantage is for 
+    other programmers can check your code, they might help.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
