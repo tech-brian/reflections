@@ -19,7 +19,8 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    If we have different changes in github and our local branch, we can fetch a copy from github to our local remote
+    then we can edit the changes we want to conclude and merge it. We can also fetch the commit from github store it to local remote, edit or make changes of our local branch. Then merge local remote and local branch whenever we are ready
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
